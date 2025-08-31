@@ -5,15 +5,14 @@
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://html.spec.whatwg.org/)
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://www.w3.org/Style/CSS/)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://www.javascript.com/)
-[![Responsive](https://img.shields.io/badge/Responsive-00D4AA?style=for-the-badge&logo=responsive&logoColor=white)](#)
 
 ![Status](https://img.shields.io/badge/Status-Active-00ff41?style=flat-square&logo=statuspal)
 ![Version](https://img.shields.io/badge/Version-1.0.0-ff69b4?style=flat-square&logo=semantic-release)
-![License](https://img.shields.io/badge/License-MIT-blue?style=flat-square&logo=opensourceinitiative)
+
 
 **🚀 Interactive CGPA calculator for IIT Madras students with real-time analytics & modern animations**
 
-[🔗 Live Demo](https://demo-link.com) • [📋 Documentation](#features) • [⚡ Quick Start](#installation)
+[🔗 Live Demo](https://claude.ai/public/artifacts/6848cabf-02af-41b5-b25e-fcf75eabdc3a) • [📋 Documentation](#features) • [⚡ Quick Start](#installation)
 
 </div>
 
@@ -28,7 +27,6 @@
 **❌ Challenge**
 - 🧮 Complex IITM grading formula
 - ⏱️ Manual calculation: 15-20 minutes
-- 📊 23% human error rate
 - 🔄 Dynamic weightage system
 
 </td>
@@ -190,14 +188,14 @@ git push origin feature/✨NewFeature
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)]((https://github.com/PRODHOSH))
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white)](https://yourportfolio.com)
 
 ### 🔗 **Project Links**
 
-[![Live Demo](https://img.shields.io/badge/🔗_Live_Demo-00D4AA?style=for-the-badge)](https://demo-link.com)
+[![Live Demo](https://img.shields.io/badge/🔗_Live_Demo-00D4AA?style=for-the-badge)](https://claude.ai/public/artifacts/6848cabf-02af-41b5-b25e-fcf75eabdc3a)
 [![Repository](https://img.shields.io/badge/📁_Repository-181717?style=for-the-badge&logo=github)](https://github.com/yourusername/iitm-cgpa-calculator)
-[![Issues](https://img.shields.io/badge/🐛_Issues-FF6B6B?style=for-the-badge)](https://github.com/yourusername/iitm-cgpa-calculator/issues)
+[![Issues](https://img.shields.io/badge/🐛_Issues-FF6B6B?style=for-the-badge)](https://github.com/PRODHOSH/iitm-cgpa-calculator/issues)
 
 </div>
 
