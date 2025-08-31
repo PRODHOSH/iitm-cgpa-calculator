@@ -194,7 +194,7 @@ git push origin feature/✨NewFeature
 ### 🔗 **Project Links**
 
 [![Live Demo](https://img.shields.io/badge/🔗_Live_Demo-00D4AA?style=for-the-badge)](https://claude.ai/public/artifacts/6848cabf-02af-41b5-b25e-fcf75eabdc3a)
-[![Repository](https://img.shields.io/badge/📁_Repository-181717?style=for-the-badge&logo=github)](https://github.com/yourusername/iitm-cgpa-calculator)
+[![Repository](https://img.shields.io/badge/📁_Repository-181717?style=for-the-badge&logo=github)](https://github.com/PRODHOSH/iitm-cgpa-calculator)
 [![Issues](https://img.shields.io/badge/🐛_Issues-FF6B6B?style=for-the-badge)](https://github.com/PRODHOSH/iitm-cgpa-calculator/issues)
 
 </div>
