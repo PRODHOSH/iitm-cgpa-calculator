@@ -1,4 +1,5 @@
 # 🎓 IITM CGPA Calculator Dashboard
+Made by Prodhosh VS
 
 <div align="center">
 
