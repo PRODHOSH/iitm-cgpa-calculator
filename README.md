@@ -110,7 +110,7 @@ CGPA = Σ(Grade_Points × Credits) / Σ(Credits)
 ### 📦 **Quick Setup**
 ```bash
 # 🔥 One-click setup
-git clone https://github.com/yourusername/iitm-cgpa-calculator.git
+git clone https://github.com/PRODHOSH/iitm-cgpa-calculator.git
 cd iitm-cgpa-calculator && open index.html
 
 # 🌐 Local server (recommended)
