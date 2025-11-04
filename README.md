@@ -13,7 +13,7 @@ Project done by Prodhosh VS
 
 **🚀 Interactive CGPA calculator for IIT Madras students with real-time analytics & modern animations**
 
-[🔗 Live Demo](https://claude.ai/public/artifacts/6848cabf-02af-41b5-b25e-fcf75eabdc3a) • [📋 Documentation](#features) • [⚡ Quick Start](#installation)
+[🔗 Live Demo](https://prodhosh.github.io/iitm-cgpa-calculator/) • [📋 Documentation](#features) • [⚡ Quick Start](#installation)
 
 </div>
 
@@ -194,7 +194,7 @@ git push origin feature/✨NewFeature
 
 ### 🔗 **Project Links**
 
-[![Live Demo](https://img.shields.io/badge/🔗_Live_Demo-00D4AA?style=for-the-badge)](https://claude.ai/public/artifacts/6848cabf-02af-41b5-b25e-fcf75eabdc3a)
+[![Live Demo](https://img.shields.io/badge/🔗_Live_Demo-00D4AA?style=for-the-badge)](https://prodhosh.github.io/iitm-cgpa-calculator/)
 [![Repository](https://img.shields.io/badge/📁_Repository-181717?style=for-the-badge&logo=github)](https://github.com/PRODHOSH/iitm-cgpa-calculator)
 [![Issues](https://img.shields.io/badge/🐛_Issues-FF6B6B?style=for-the-badge)](https://github.com/PRODHOSH/iitm-cgpa-calculator/issues)
 
